@@ -1,9 +1,9 @@
 ## Welcome to Stephanie's Github!
 
-👩🏻‍💻 I’m a third-year Computer Science major at the University of Virginia<br/>
-✏️ I love software development, project management, UX/UI, and promoting women in CS/STEM<br/>
-🌿 Outside of school, I love hiking, reading, and learning Japanese<br/>
-🙌 Summer '25 SWE intern @ CoStar Group<br/>
+👩🏻‍💻 I’m a fourth-year Computer Science major at the University of Virginia, graduating May 2027<br/>
+✏️ I love full-stack development, innovative AI integration, and promoting women in CS/STEM<br/>
+🌿 Outside of school, I love getting too competitive in pickleball, learning Japanese, and side questing<br/>
+🙌 Prev Summer '26 SWE intern @ Capital One<br/>
 
 ## 📫 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanielim-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stephanie00lim@gmail.com) 
